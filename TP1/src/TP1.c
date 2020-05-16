@@ -14,7 +14,7 @@
 
 int main(void) {
 
-	//setbuf(stdout, NULL);
+	setbuf(stdout, NULL);
 	int opcionMenu; // Opcion del menu seleccionada
 	float numA = 0; // Operador A
 	float numB = 0; // Operador B
